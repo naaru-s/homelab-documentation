@@ -1,5 +1,5 @@
 # Configuration LAB
 
-[Configuration Traefik](./services/index.md)
-[Configuration Traefik](./cron.md)
-[Configuration Traefik](./scripts/index.md)
+- [Services](./services/index.md)
+- [Cron](./cron.md)
+- [Scripts](./scripts/index.md)

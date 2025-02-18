@@ -28,6 +28,6 @@ Cela fait partie de la conf Treafik pour cacher la majorité de mes services der
 
 - RASP gère ensuite tout le trafique entrant en le redirigeant vers les services correspondants sur les deux machines.
 
-[Configuration Traefik](/rasp/index.md)
-[Configuration Traefik](/lab/index.md)
+- [Rasp](/rasp/index.md)
+- [Lab](/lab/index.md)
 
